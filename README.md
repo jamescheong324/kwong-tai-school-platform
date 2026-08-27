@@ -6,7 +6,7 @@
 
 ## 線上看
 
-https://jamescheong324.github.io/kwong-tai-school-platform-demo/
+https://jamescheong324.github.io/kwong-tai-school-platform/
 
 倉庫是 private。若打不開，多半是 GitHub Pages 對 private repo 有方案限制，把你加進 Collaborators 或改成 public 即可。
 
@@ -15,8 +15,8 @@ https://jamescheong324.github.io/kwong-tai-school-platform-demo/
 需要已安裝 [Node.js](https://nodejs.org/) 18 或更新版本。
 
 ```bash
-git clone git@github.com:jamescheong324/kwong-tai-school-platform-demo.git
-cd kwong-tai-school-platform-demo
+git clone git@github.com:jamescheong324/kwong-tai-school-platform.git
+cd kwong-tai-school-platform
 npm install
 npm run dev
 ```
